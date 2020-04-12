@@ -12,4 +12,4 @@ roslaunch turtlebot3_manipulation_gazebo turtlebot3_manipulation.launch\
 roslaunch turtlebot3_manipulation_moveit_config move_group.launch\
 (Press play in Gazebo window)\
 roslaunch turtlebot3_manipulation_moveit_config moveit_rviz.launch (optional)\
-rosrun tb3_with_om_moveit_examples planning_joint_space_goal.py\
+rosrun tb3_with_om_moveit_examples planning_joint_space_goal.py
